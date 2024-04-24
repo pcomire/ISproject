@@ -1,0 +1,36 @@
+body{
+    background-color:aliceblue;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+.Comfort{
+   color:darkslategray;
+}
+
+.Popular{
+    color:darkslategray;
+}
+
+.delicacies{
+    color:darkslategray;
+}
+
+.footer{
+    color:beige;
+}
+
+.nations{
+    color:azure;
+}
+
+.tableauPlaceholder{
+    content:center;
+}
